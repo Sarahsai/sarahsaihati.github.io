@@ -1,0 +1,18 @@
+.Triangle-1{
+  width: 0px;
+      height: 0px;
+      border-left: 50px solid transparent;
+      border-right: 50px solid transparent;
+      border-bottom: 100px solid brown;
+      background-color: blue;
+      margin-top: 0%;
+}
+.Triangle-2{
+  width: 0px;
+      height: 0px;
+      border-left: 50px solid transparent;
+      border-right: 50px solid transparent;
+      border-bottom: 100px solid brown;
+      background-color: red;
+      margin-top: 1%;
+}
