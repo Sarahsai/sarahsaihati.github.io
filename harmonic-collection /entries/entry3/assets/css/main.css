@@ -7,79 +7,28 @@ height: 1024px;
 background: #F7B1B1;
 }
 
-/* Polygon 1 */
+/* Rectangle 1 */
 .number2{
 position: absolute;
-width: 662px;
-height: 685px;
-left: 54px;
-top: 429px;
+width: 216px;
+height: 168px;
+left: 71px;
+top: 205px;
 
-background: #B89D76;
+background: #9C9AFF;
 }
 
-/* Polygon 2 */
-.number3{
+/* Lebanon */
+.number25{
 position: absolute;
-width: 572px;
-height: 544px;
-left: 434px;
-top: 385px;
-
-background: #B89D76;
-}
-
-/* Polygon 3 */
-.number4{
-position: absolute;
-width: 544px;
-height: 515px;
-left: 750px;
-top: 429px;
-
-background: #B89D76;
-}
-
-/* Welome to Egypt */
-.number5{
-position: absolute;
-width: 694px;
-height: 212px;
-left: 22px;
-top: 30px;
-
-font-family: 'Inter';
-font-style: italic;
-font-weight: 500;
-font-size: 96px;
-line-height: 116px;
-
-color: #000000;
-}
-
-
-/* Rectangle 1 */
-.number6{
-position: absolute;
-width: 271px;
-height: 504px;
-left: 1153px;
-top: 8px;
-
-background: url(image.png);
-}
-
-/* Who do you think built the pyrimad? */
-.number7{
-position: absolute;
-width: 298px;
-height: 154px;
-left: 41px;
-top: 275px;
+width: 203px;
+height: 54px;
+left: 611px;
+top: 724px;
 
 font-family: 'Inter';
 font-style: normal;
-font-weight: 300;
+font-weight: 400;
 font-size: 40px;
 line-height: 48px;
 
@@ -87,13 +36,220 @@ color: #000000;
 }
 
 
-/* image 1 */
+/* Rectangle 2 */
+.number3{
+position: absolute;
+width: 268px;
+height: 235px;
+left: 814px;
+top: 81px;
+
+background: #D957CC;
+}
+
+/* Rectangle 3 */
+.number4{
+position: absolute;
+width: 432px;
+height: 387px;
+left: 22px;
+top: 565px;
+
+background: #6865FF;
+}
+
+/* Rectangle 4 */
+.number5{
+position: absolute;
+width: 548px;
+height: 487px;
+left: 843px;
+top: 430px;
+
+background: #8CDF85;
+}
+
+/* Rectangle 5 */
+.number6{
+position: absolute;
+width: 100px;
+height: 100px;
+left: 645px;
+top: 624px;
+
+background: #DFE9A0;
+}
+
+/* Rectangle 6 */
+.number7{
+position: absolute;
+width: 370px;
+height: 319px;
+left: 386px;
+top: 165px;
+
+background: #7BE4CB;
+}
+
+/* Rectangle 7 */
 .number8{
 position: absolute;
-width: 227px;
-height: 247px;
-left: 533px;
-top: 67px;
+width: 94px;
+height: 90px;
+left: 1251px;
+top: 152px;
 
-background: url(image.png);
+background: #EC6A6A;
+}
+
+/* Jordan */
+.number9{
+position: absolute;
+width: 203px;
+height: 54px;
+left: 102px;
+top: 376px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 48px;
+
+color: #000000;
+}
+
+
+/* Syria */
+.number10{
+position: absolute;
+width: 203px;
+height: 54px;
+left: 843px;
+top: 322px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 48px;
+
+color: #000000;
+}
+
+
+/* United Arab Emirates */
+.number11{
+position: absolute;
+width: 229px;
+height: 107px;
+left: 1199px;
+top: 242px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 48px;
+
+color: #000000;
+}
+
+
+/* Iraq */
+.number12{
+position: absolute;
+width: 203px;
+height: 54px;
+left: 517px;
+top: 488px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 48px;
+
+color: #000000;
+}
+
+
+/* Saudi Arabia */
+.number13{
+position: absolute;
+width: 299px;
+height: 74px;
+left: 1015px;
+top: 923px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 48px;
+
+color: #000000;
+}
+
+
+/* Egypt */
+.number14{
+position: absolute;
+width: 203px;
+height: 54px;
+left: 134px;
+top: 917px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 48px;
+
+color: #000000;
+}
+
+
+/* Rectangle 8 */
+.number15{
+position: absolute;
+width: 673px;
+height: 100px;
+left: 22px;
+top: 21px;
+
+background: #8CA09D;
+}
+
+/* Compare these country sizes ! */
+.number16{
+position: absolute;
+width: 649px;
+height: 78px;
+left: 36px;
+top: 31px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 48px;
+
+color: #FFFFFF;
+}
+
+.Lebanon{
+  position: absolute;
+  width: 203px;
+  height: 54px;
+  left: 611px;
+  top: 724px;
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 48px;
+
+  color: #000000;
 }
