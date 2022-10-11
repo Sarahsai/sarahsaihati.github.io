@@ -1,18 +1,343 @@
-.Triangle-1{
-  width: 0px;
-      height: 0px;
-      border-left: 50px solid transparent;
-      border-right: 50px solid transparent;
-      border-bottom: 100px solid brown;
-      background-color: blue;
-      margin-top: 0%;
+
+/* Desktop - 1 */
+.number1{
+position: relative;
+width: 1440px;
+height: 1024px;
+
+background: #FFFFFF;
 }
-.Triangle-2{
-  width: 0px;
-      height: 0px;
-      border-left: 50px solid transparent;
-      border-right: 50px solid transparent;
-      border-bottom: 100px solid brown;
-      background-color: red;
-      margin-top: 1%;
+
+/* Ellipse 1 */
+.number2{
+position: absolute;
+width: 513px;
+height: 361px;
+left: 414px;
+top: 421px;
+
+background: #9387DE;
+}
+
+/* Rectangle 1 */
+.number3{
+position: absolute;
+width: 243px;
+height: 140px;
+left: 696px;
+top: 418px;
+
+background: #9387DE;
+}
+
+/* Rectangle 2 */
+.number4{
+position: absolute;
+width: 281px;
+height: 156px;
+left: 403px;
+top: 418px;
+
+background: #9387DE;
+}
+
+/* Ellipse 2 */
+.number5{
+position: absolute;
+width: 72px;
+height: 68px;
+left: 430px;
+top: 249px;
+
+background: #D9D9D9;
+}
+
+/* Ellipse 3 */
+.number6{
+position: absolute;
+width: 51px;
+height: 46px;
+left: 633px;
+top: 160px;
+
+background: #D9D9D9;
+}
+
+/* Ellipse 4 */
+.number7{
+position: absolute;
+width: 36px;
+height: 31px;
+left: 782px;
+top: 252px;
+
+background: #D9D9D9;
+}
+
+/* Ellipse 5 */
+.number8{
+position: absolute;
+width: 51px;
+height: 43px;
+left: 633px;
+top: 328px;
+
+background: #D9D9D9;
+}
+
+/* Line 1 */
+.number9{
+position: absolute;
+width: 104px;
+height: 0px;
+left: 420px;
+top: 365px;
+
+border: 1px solid #000000;
+transform: rotate(89.45deg);
+}
+
+/* Line 2 */
+.number10{
+position: absolute;
+width: 51.24px;
+height: 0px;
+left: 625px;
+top: 390px;
+
+border: 1px solid #000000;
+transform: rotate(95.6deg);
+}
+
+/* Line 3 */
+.number11{
+position: absolute;
+width: 229.9px;
+height: 0px;
+left: 570px;
+top: 310px;
+
+border: 1px solid #000000;
+transform: rotate(71.49deg);
+}
+
+/* Line 4 */
+.number12{
+position: absolute;
+width: 139px;
+height: 0px;
+left: 730px;
+top: 350px;
+
+border: 1px solid #000000;
+transform: rotate(89.59deg);
+}
+
+/* Ellipse 6 */
+.number13{
+position: absolute;
+width: 45px;
+height: 50px;
+left: 411px;
+top: 217px;
+
+background: #D9D9D9;
+}
+
+/* Ellipse 7 */
+.number15{
+position: absolute;
+width: 38px;
+height: 44px;
+left: 456px;
+top: 217px;
+
+background: #D9D9D9;
+}
+
+/* Ellipse 8 */
+.number16{
+position: absolute;
+width: 64px;
+height: 51px;
+left: 403px;
+top: 267px;
+
+background: #D9D9D9;
+}
+
+/* Ellipse 9 */
+.number17{
+position: absolute;
+width: 42px;
+height: 38px;
+left: 481px;
+top: 239px;
+
+background: #D9D9D9;
+}
+
+/* Ellipse 10 */
+.number18{
+position: absolute;
+width: 37px;
+height: 39px;
+left: 623px;
+top: 144px;
+
+background: #D9D9D9;
+}
+
+/* Ellipse 11 */
+.number19{
+position: absolute;
+width: 50px;
+height: 31px;
+left: 670px;
+top: 152px;
+
+background: #D9D9D9;
+}
+
+/* Ellipse 12 */
+.number20{
+position: absolute;
+width: 33px;
+height: 39px;
+left: 617px;
+top: 183px;
+
+background: #D9D9D9;
+}
+
+/* Ellipse 13 */
+.number21{
+position: absolute;
+width: 33px;
+height: 39px;
+left: 668px;
+top: 187px;
+
+background: #D9D9D9;
+}
+
+/* Ellipse 14 */
+.number22{
+position: absolute;
+width: 33px;
+height: 39px;
+left: 810px;
+top: 260px;
+
+background: #D9D9D9;
+}
+
+/* Ellipse 15 */
+.number23{
+position: absolute;
+width: 33px;
+height: 39px;
+left: 765px;
+top: 226px;
+
+background: #D9D9D9;
+}
+
+/* Ellipse 16 */
+.number24{
+position: absolute;
+width: 33px;
+height: 39px;
+left: 798px;
+top: 226px;
+
+background: #D9D9D9;
+}
+
+/* Ellipse 17 */
+.number25{
+position: absolute;
+width: 33px;
+height: 39px;
+left: 765px;
+top: 260px;
+
+background: #D9D9D9;
+}
+
+/* Ellipse 18 */
+.number26{
+position: absolute;
+width: 33px;
+height: 39px;
+left: 629px;
+top: 308px;
+
+background: #D9D9D9;
+}
+
+/* Ellipse 19 */
+.number27{
+position: absolute;
+width: 33px;
+height: 39px;
+left: 663px;
+top: 310px;
+
+background: #D9D9D9;
+}
+
+/* Ellipse 20 */
+.number28{
+position: absolute;
+width: 33px;
+height: 39px;
+left: 611px;
+top: 332px;
+
+background: #D9D9D9;
+}
+
+/* Ellipse 21 */
+.number29{
+position: absolute;
+width: 33px;
+height: 39px;
+left: 663px;
+top: 347px;
+
+background: #D9D9D9;
+}
+
+/* Ellipse 22 */
+.number30{
+position: absolute;
+width: 33px;
+height: 39px;
+left: 627px;
+top: 353px;
+
+background: #D9D9D9;
+}
+
+/* Ellipse 23 */
+.number31{
+position: absolute;
+width: 33px;
+height: 39px;
+left: 486px;
+top: 275px;
+
+background: #D9D9D9;
+}
+
+/* Ellipse 24 */
+.number32{
+position: absolute;
+width: 33px;
+height: 39px;
+left: 451px;
+top: 299px;
+
+background: #D9D9D9;
 }

@@ -1,0 +1,99 @@
+/* Desktop - 1 */
+.number1{
+position: relative;
+width: 1440px;
+height: 1024px;
+
+background: #F7B1B1;
+}
+
+/* Polygon 1 */
+.number2{
+position: absolute;
+width: 662px;
+height: 685px;
+left: 54px;
+top: 429px;
+
+background: #B89D76;
+}
+
+/* Polygon 2 */
+.number3{
+position: absolute;
+width: 572px;
+height: 544px;
+left: 434px;
+top: 385px;
+
+background: #B89D76;
+}
+
+/* Polygon 3 */
+.number4{
+position: absolute;
+width: 544px;
+height: 515px;
+left: 750px;
+top: 429px;
+
+background: #B89D76;
+}
+
+/* Welome to Egypt */
+.number5{
+position: absolute;
+width: 694px;
+height: 212px;
+left: 22px;
+top: 30px;
+
+font-family: 'Inter';
+font-style: italic;
+font-weight: 500;
+font-size: 96px;
+line-height: 116px;
+
+color: #000000;
+}
+
+
+/* Rectangle 1 */
+.number6{
+position: absolute;
+width: 271px;
+height: 504px;
+left: 1153px;
+top: 8px;
+
+background: url(image.png);
+}
+
+/* Who do you think built the pyrimad? */
+.number7{
+position: absolute;
+width: 298px;
+height: 154px;
+left: 41px;
+top: 275px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 40px;
+line-height: 48px;
+
+color: #000000;
+}
+
+
+/* image 1 */
+.number8{
+position: absolute;
+width: 227px;
+height: 247px;
+left: 533px;
+top: 67px;
+
+background: url(image.png);
+}
