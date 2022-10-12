@@ -103,7 +103,7 @@ background: #EC6A6A;
 }
 
 /* Jordan */
-.number9{
+.h5{
 position: absolute;
 width: 203px;
 height: 54px;
@@ -121,7 +121,7 @@ color: #000000;
 
 
 /* Syria */
-.number10{
+h6{
 position: absolute;
 width: 203px;
 height: 54px;
@@ -139,7 +139,7 @@ color: #000000;
 
 
 /* United Arab Emirates */
-.number11{
+.h4{
 position: absolute;
 width: 229px;
 height: 107px;
@@ -157,7 +157,7 @@ color: #000000;
 
 
 /* Iraq */
-.number12{
+.h3{
 position: absolute;
 width: 203px;
 height: 54px;
@@ -175,7 +175,7 @@ color: #000000;
 
 
 /* Saudi Arabia */
-.number13{
+.h2{
 position: absolute;
 width: 299px;
 height: 74px;
@@ -193,7 +193,7 @@ color: #000000;
 
 
 /* Egypt */
-.number14{
+.h7{
 position: absolute;
 width: 203px;
 height: 54px;
@@ -238,7 +238,7 @@ line-height: 48px;
 color: #FFFFFF;
 }
 
-.Lebanon{
+.h1{
   position: absolute;
   width: 203px;
   height: 54px;
