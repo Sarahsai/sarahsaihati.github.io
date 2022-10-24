@@ -1,23 +1,23 @@
 /* Rectangle 1 */
 .number1 {
 position: absolute;
-width: 3230px;
-height: 1954px;
+width: 1400px;
+height: 1100px;
 
 background: #F0C1C1;
 }
 
 /* السلام عليكم الحب والولاء عين القلب حبيبي شكرا لك */
-.number2{
+h1{
 position: absolute;
-width: 2597px;
-height: 1687px;
+width: 1000px;
+height: 1000px;
 
 font-family: 'Inter';
 font-style: normal;
-font-weight: 800;
-font-size: 220px;
-line-height: 266px;
+font-weight: 450;
+font-size: 200px;
+line-height: 200px;
 
 color: #C7FFE7;
 }

@@ -19,7 +19,7 @@ background: #9C9AFF;
 }
 
 /* Lebanon */
-.number25{
+h1{
 position: absolute;
 width: 203px;
 height: 54px;
@@ -103,12 +103,12 @@ background: #EC6A6A;
 }
 
 /* Jordan */
-.h5{
+h5{
 position: absolute;
 width: 203px;
 height: 54px;
 left: 102px;
-top: 376px;
+top: 300px;
 
 font-family: 'Inter';
 font-style: normal;
@@ -126,7 +126,7 @@ position: absolute;
 width: 203px;
 height: 54px;
 left: 843px;
-top: 322px;
+top: 250px;
 
 font-family: 'Inter';
 font-style: normal;
@@ -139,7 +139,7 @@ color: #000000;
 
 
 /* United Arab Emirates */
-.h4{
+h4{
 position: absolute;
 width: 229px;
 height: 107px;
@@ -157,12 +157,12 @@ color: #000000;
 
 
 /* Iraq */
-.h3{
+h3{
 position: absolute;
 width: 203px;
 height: 54px;
 left: 517px;
-top: 488px;
+top: 450px;
 
 font-family: 'Inter';
 font-style: normal;
@@ -175,7 +175,7 @@ color: #000000;
 
 
 /* Saudi Arabia */
-.h2{
+h2{
 position: absolute;
 width: 299px;
 height: 74px;
@@ -193,12 +193,12 @@ color: #000000;
 
 
 /* Egypt */
-.h7{
+h7{
 position: absolute;
 width: 203px;
 height: 54px;
 left: 134px;
-top: 917px;
+top: 960px;
 
 font-family: 'Inter';
 font-style: normal;
@@ -238,18 +238,18 @@ line-height: 48px;
 color: #FFFFFF;
 }
 
-.h1{
-  position: absolute;
-  width: 203px;
-  height: 54px;
-  left: 611px;
-  top: 724px;
+h8{
+position: absolute;
+width: 400px;
+height: 54px;
+left: 134px;
+top: 35px;
 
-  font-family: 'Inter';
-  font-style: normal;
-  font-weight: 400;
-  font-size: 40px;
-  line-height: 48px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 48px;
 
-  color: #000000;
+color: #000000;
 }
