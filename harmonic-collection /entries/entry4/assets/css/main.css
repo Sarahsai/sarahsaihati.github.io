@@ -1,69 +1,45 @@
-/* Rectangle 1 */
-.number1 {
-position: absolute;
-width: 1400px;
-height: 1100px;
-
-background: #F0C1C1;
+body {
+  background-color:  #ADD8E6;
+  font-family:  verdana;
+  padding: 50px;
 }
 
-/* السلام عليكم الحب والولاء عين القلب حبيبي شكرا لك */
+@media (max-width: 768px) {
+  body {
+    background-color:green;
+    color:  white;
+  }
+}
+@media (max-height: 650px) {
+  body {
+    background-color: pink;
+  }
+  body {
+    font-size: 16px;
+  }
+  @media (min-width: 768px) {
+    body {
+      font-size: 60px;
+    }
+    @media (min-width: 992px) {
+  body {
+    font-size: 40px;
+  }
+}
+@media (min-width: 1200px) {
+  body {
+    font-size: 80px;
+  }
+}
+
 h1{
-position: absolute;
-width: 1000px;
-height: 1000px;
-
-font-family: 'Inter';
-font-style: normal;
-font-weight: 450;
-font-size: 200px;
-line-height: 200px;
-
-color: #C7FFE7;
+  text-align: center;
+  border: 3px solid green;
 }
 
-
-/* Rectangle 2 */
-.number3{
-position: absolute;
-width: 1495px;
-height: 194px;
-
-background: #F49CE6;
-}
-
-/* Rectangle 3 */
-.number4{
-position: absolute;
-width: 1495px;
-height: 215px;
-
-background: #F49CE6;
-}
-
-/* Rectangle 4 */
-.number5{
-position: absolute;
-width: 1495px;
-height: 215px;
-
-background: #F49CE6;
-}
-
-/* Rectangle 5 */
-.number6{
-position: absolute;
-width: 1495px;
-height: 215px;
-
-background: #F49CE6;
-}
-
-/* Rectangle 6 */
-.number7{
-position: absolute;
-width: 1495px;
-height: 215px;
-
-background: #F49CE6;
+h3{
+  margin: auto;
+width: 50%;
+border: 3px solid blue;
+padding: 10px;
 }
