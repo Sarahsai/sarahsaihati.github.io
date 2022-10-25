@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:300,400,600,700');
+body{
+  margin:0;
+  padding:0;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  height:2150px;
+  background: #ADD8E6;
+  font-family:'Poppins', sans-serif;
+
+}
+
+.calendar{
+  position: relative;
+  background: #fff;
+  width: 800px;
+  height:450px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: 15px solid #fff;
+  box-shadow: 0 15px 35px rgba(0, 0, 0, 0.5);
+}
