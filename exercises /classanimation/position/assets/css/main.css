@@ -1,0 +1,17 @@
+body {
+    animation: change-color 3s steps(5, start) infinite;;
+    animation-direction: alternate;
+}
+
+@keyframes change-color {
+   0% {
+    background-color: blue;
+  }
+  50% {
+    background-color: pink;
+  }
+
+    100% {
+    background-color: yellow;
+  }
+}

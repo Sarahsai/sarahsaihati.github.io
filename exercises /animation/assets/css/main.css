@@ -1,0 +1,26 @@
+body {
+  background-color: pink;
+  font-family: arial;
+  color: red;
+  font-size: 100px;
+}
+#yin-yang {
+  height:500px;
+}
+
+#yin-yang {
+  animation: spinType 2s;
+  animation-iteration-count: infinite;
+}
+
+
+@keyframes spinType {
+  0% {
+    transform: rotate(0.5turn);
+  }
+  60% {
+    transform: rotate(0.7turn);
+  }
+  100% {
+    transform: rotate(1turn);
+  }

@@ -1,0 +1,32 @@
+
+html, body, * {
+margin: 0;
+padding: 0;
+background-color: sandybrown;
+cursor: default;
+}
+
+.canvas {
+width: 100%;
+height: 100%;
+}
+
+
+/*constant animation*/
+
+.animate_constant {
+background-color: lightblue;
+border-radius: 50%;
+border-width: 5px;
+height: 150px;
+width: 25%;
+float: left;
+top: 10px;
+position: relative;
+/*  animation-name: constant;
+animation-duration: 4s;
+animation-timing-function: linear;
+animation-iteration-count: infinite;
+animation-direction: alternate;*/
+animation: constant 4s linear infinite alternate;
+}
