@@ -1,0 +1,126 @@
+body {
+    animation: change-color 3s steps(7, start) infinite;;
+    animation-direction: alternate;
+  }
+
+@keyframes change-color{
+   0% {
+    background-color: pink;
+  }
+  50% {
+    background-color: #C34A2C;
+  }
+
+    100% {
+    background-color: #CB6D51;
+  }
+}
+
+h1{
+  color: pink;
+  font-family: sudo;
+  text-align: center;
+  bottom:auto;
+  font-size: 40px;
+position: relative;
+left:-100px;
+top: -510px;
+}
+
+iframe{
+  border: none;
+  height: 500px;
+  width: 700px;
+  position: relative;
+  left: 215px;
+  top: 90px;
+
+}
+
+h2{
+  color: pink;
+  font-family: sudo;
+  text-align: center;
+  bottom:auto;
+  font-size: 40px;
+position: relative;
+left:-100px;
+top: -510px;
+}
+
+iframe{
+  border: none;
+  height: 500px;
+  width: 700px;
+  position: relative;
+  left: 215px;
+  top: 50px;
+
+}
+
+h3{
+  color: pink;
+  font-family: sudo;
+  text-align: center;
+  bottom:auto;
+  font-size: 40px;
+position: relative;
+left:-100px;
+top: -510px;
+}
+
+iframe{
+  border: none;
+  height: 500px;
+  width: 700px;
+  position: relative;
+  left: 215px;
+  top: 70px;
+
+}
+
+h4{
+  color: pink;
+  font-family: sudo;
+  text-align: center;
+  bottom:auto;
+  font-size: 40px;
+position: relative;
+left:-100px;
+top: -510px;
+}
+
+iframe{
+  border: none;
+  height: 500px;
+  width: 700px;
+  position: relative;
+  left: 215px;
+  top: 140px;
+
+}
+
+h5{
+  color: #C34A2C;
+  font-family: fira code;
+  text-align: center;
+  bottom:auto;
+  font-size: 110px;
+position: relative;
+left:780px;
+top: -2500px;
+}
+
+
+
+
+h6{
+  color: #CB6D51;
+  font-family: sudo;
+  text-align: center;
+  bottom:auto;
+  font-size: 200px;
+position: relative;
+left:300px;
+top: -2900px;
+}
